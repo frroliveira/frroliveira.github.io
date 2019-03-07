@@ -1,0 +1,5 @@
+name: Filipe Oliveira
+
+exclude: [css, documents, images, js, CNAME, index.html]
+
+remote_theme: pages-themes/primer
