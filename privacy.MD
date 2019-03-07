@@ -195,7 +195,7 @@ If you are a parent or a guardian and you became aware that your Children has pr
 
 ## 10 Changes to our Privacy Policy
 
-We may update our privacy policy from time to time. We will notify you of such changes via a notification on our services.
+We may update our privacy policy from time to time. We will notify you of such changes via a notification on our services. We won't however notify you of minor changes such as typos.
 
-<br/><br/>
-February 21, 2019
+<br/>
+March 7, 2019
