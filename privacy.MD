@@ -144,7 +144,7 @@ Purpose | We aim to deliver new or improved functionalities without the hassle t
 Legal Basis | You have given us consent.
 Storage | Data will be kept without automatic expiration. It may be deleted upon request after which time it may take up to 180 days for being removed.
 
-# 6 Purchases
+## 6 Purchases
 
 When making purchases in our mobile applications all billing and financial information is processed by our payment service providers. The processing of such data is then governed by their privacy policies:
 
@@ -153,7 +153,7 @@ When making purchases in our mobile applications all billing and financial infor
 
 The providers only share with us a transaction/order identifier that is not stored or further processed by us.
 
-# 7 Data Security
+## 7 Data Security
 
 While we strive to apply the most secure methods of data protection available we cannot guarantee the absolute security of your data. This means that your data may be lost, misused or altered without our intention. In the case of such events we will notify you of the breach and assist you under the principles of good faith and best effort.
 
@@ -174,4 +174,31 @@ Our services may contain links to third-party services including the content of 
 For effects of EU’s General Data Protection Regulation (GDPR) our data protection officer is:
 
 Filipe Rui Rocha Oliveira
+
 email: <support@frroliveira.com>
+
+## 8 Your Rights
+
+Information | This privacy policy aims to provide you with all the information about how we process your data.
+Data Access | You can obtain a copy of the data we hold about you.
+Data Correctness | You can ask us to correct any of your personal data.
+Data Deletion | You can request for any information about you to be erased. We won’t however delete information that we are required to keep by law.
+Data Portability | You can ask us to provide your data in a machine-readable format and send it to another data controller.
+Object to Processing | You may ask us to stop processing your data for marketing purposes or on grounds of your particular situation.
+Restriction of Processing | You may further ask us to stop processing your data, as per legal legislation applicable to you.
+Non-Automated Individual Processing | You can ask us not to reach decisions affecting you based solely on automated processing, as per legal legislation applicable to you.
+Withdraw Consent | You can withdraw consent to data processing at any time. This won’t apply to any data collected before withdrawal.
+Complain | We hope to resolve any issue you might have as efficient and quickly as possible. However you can always lodge a complaint with a data protection authority in your jurisdiction.
+
+## 9 Children
+
+Our services are not to be used by anyone under the age of 16 (“Children”).
+
+If you are a parent or a guardian and you became aware that your Children has provided us personal information, please contact us.
+
+## 10 Changes to our Privacy Policy
+
+We may update our privacy policy from time to time. We will notify you of such changes via a notification on our services.
+
+
+February 21, 2019
