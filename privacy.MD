@@ -17,9 +17,9 @@ When using our mobile applications the following data may be collected and store
 * settings (e.g. sound, language)
 * playtime - total playing time since install or last data reset
 
-**Purpose** | We aim to provide you with a consistent and comfortable experience when using our applications
-**Legal Basis** | You have given us consent
-**Storage** | Data will be kept until the application is uninstalled or data is cleared through the device settings menu
+Purpose | We aim to provide you with a consistent and comfortable experience when using our applications
+Legal Basis | You have given us consent
+Storage | Data will be kept until the application is uninstalled or data is cleared through the device settings menu
 
 When your device is connected to the Internet other data may be collected. See more in the following sections.
 
