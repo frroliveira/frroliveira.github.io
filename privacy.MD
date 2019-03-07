@@ -1,13 +1,10 @@
 # Privacy Policy
 
-The provider of this website and mobile applications linking to this page is:
-
 Filipe Rui Rocha Oliveira (“we”, “us”, or “our”)
 
 email: <support@frroliveira.com>
 
-This privacy policy informs you the why and how we collect, store, use, and share your personal information, if you use our services. You will be required to accept it to use our mobile applications.
-
+is the provider of this website and mobile applications linking to this page. This privacy policy informs you the why and how we collect, store, use, and share your personal information, if you use our services. You will be required to accept it to use our mobile applications.
 
 ## 1 Mobile Applications
 
@@ -20,9 +17,9 @@ When using our mobile applications the following data may be collected and store
 * settings (e.g. sound, language)
 * playtime - total playing time since install or last data reset
 
-| Purpose | We aim to provide you with a consistent and comfortable experience when using our applications. |
-| Legal Basis | You have given us consent. |
-| Storage | Data will be kept until the application is uninstalled or data is cleared through the device settings menu. |
+**Purpose** | We aim to provide you with a consistent and comfortable experience when using our applications
+**Legal Basis** | You have given us consent
+**Storage** | Data will be kept until the application is uninstalled or data is cleared through the device settings menu
 
 When your device is connected to the Internet other data may be collected. See more in the following sections.
 
@@ -31,10 +28,10 @@ When your device is connected to the Internet other data may be collected. See m
 Our mobile applications may process identifiers that can be used to uniquely identify you, solely as part of any of the purposes mentioned in the sections below. These identifiers are:
 
 * for Apple devices unique per device
-   * advertising identifier - see more
+   * advertising identifier - see [more](https://support.apple.com/en-us/HT205223)
    * identifier for vendor
 * for Android devices unique per device and user
-   * advertising identifier - see more
+   * advertising identifier - see [more](https://support.google.com/googleplay/android-developer/answer/6048248?hl=en)
    * android identifier
 * for all devices unique per device and application
    * firebase instance identifier
@@ -46,9 +43,9 @@ You can opt-out from being identified based on your advertising identifier throu
 
 Our mobile applications use the AdMob with Firebase service provided by Google for serving advertising to you. This service allows us to work with other advertisers that may also process your data. Our advertising partners are the following:
 
-* Google - read their privacy policy and ads policy
-* AdColony - read their privacy policy
-* Chartboost - read their privacy policy
+* Google - read their [privacy policy](https://policies.google.com/privacy?hl=en) and [ads policy](https://policies.google.com/technologies/ads)
+* AdColony - read their [privacy policy](https://www.adcolony.com/privacy-policy/)
+* Chartboost - read their [privacy policy](https://answers.chartboost.com/en-us/articles/200780269)
 
 Purpose | We aim to show you advertising that is useful to you. Our legitimate interests and of our partners require also the ability to apply frequency capping, aggregate reporting, and to combat fraud and abuse.
 Legal Basis | You have given us consent.
@@ -148,8 +145,8 @@ Storage | Data will be kept without automatic expiration. It may be deleted upon
 
 When making purchases in our mobile applications all billing and financial information is processed by our payment service providers. The processing of such data is then governed by their privacy policies:
 
-* Apple
-* Google
+* [Apple](https://www.apple.com/legal/privacy/)
+* [Google](https://policies.google.com/privacy?hl=en)
 
 The providers only share with us a transaction/order identifier that is not stored or further processed by us.
 
@@ -161,9 +158,9 @@ While we strive to apply the most secure methods of data protection available we
 
 In order to fulfil the services we propose to you we use the services of data processors from non-EU countries. These processors are certified under the EU-US and Swiss-EU Privacy Shield framework giving enough guarantees to the processing of your personal data in the United States. You can view these certifications under the following links:
 
-* Google LLC
-* Chartboost
-* AdColony
+* [Google LLC](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active)
+* [Chartboost](https://www.privacyshield.gov/participant?id=a2zt0000000TTbcAAG&status=Active)
+* [AdColony](https://www.privacyshield.gov/participant?id=a2zt0000000TNgtAAG&status=Active)
 
 ### 7.2 Third-Party Services
 
@@ -200,5 +197,5 @@ If you are a parent or a guardian and you became aware that your Children has pr
 
 We may update our privacy policy from time to time. We will notify you of such changes via a notification on our services.
 
-
+<br/><br/>
 February 21, 2019
