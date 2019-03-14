@@ -69,15 +69,15 @@ AdColony may process your Mobile Identifiers as well as
 
 Chartboost may process your Mobile Identifiers as well as
 
-> bundle ID, language ID, operating system version, device model, software developer kit (SDK) version, unique device identifier, IP address, and Media Access Control (MAC) address.”
+> bundle ID, language ID, operating system version, device model, software developer kit (SDK) version, unique device identifier, IP address, and Media Access Control (MAC) address.
 
 They may also
 
-> collect additional stats about videos and video playback such as: start/boot-up information, amount played/session length information, memory on device used for our video cache, videos cached on a device and complete view event.”
+> collect additional stats about videos and video playback such as: start/boot-up information, amount played/session length information, memory on device used for our video cache, videos cached on a device and complete view event.
 
 They will
 
-> identify an end user’s device using Chartboost’s internal device ID, which is linked to an end user’s Apple IDFA, Google Advertising ID (GAID), or Android ID, as applicable.”
+> identify an end user’s device using Chartboost’s internal device ID, which is linked to an end user’s Apple IDFA, Google Advertising ID (GAID), or Android ID, as applicable.
 
 ## 4 Analytics
 
