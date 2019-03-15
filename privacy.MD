@@ -13,7 +13,7 @@ When using our mobile applications the following data may be collected and store
 * level scores
 * game progress (e.g. tutorial completion, last level played)
 * consumables (e.g. hints)
-* consent statuses (e.g. ads personalization)
+* consent statuses (e.g. with this policy)
 * settings (e.g. sound, language)
 * playtime - total playing time since install or last data reset
 
