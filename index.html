@@ -10,10 +10,10 @@
     <section>
       <header class="profile">
         <img src="assets/picture.png"/>
-        <h2>Filipe Oliveira</h2>
+        <h1>Filipe Oliveira</h1>
       </header>
       <footer>
-        <a href="assets/cv.pdf">CV</a>
+        <a href="assets/cv.pdf"><span>CV</span></a>
         <a href="https://github.com/frroliveira"><span>Github</span></a>
         <a href="https://linkedin.com/in/frroliveira"><span>LinkedIn</span></a>
         <a href="https://twitter.com/frroliveira_"><span>Twitter</span></a>
@@ -21,16 +21,31 @@
     </section>
     <style>
       * {
-          font-family: 'Cinzel', serif;
-          text-align: center;
-          color: #800000;
+        font-family: 'Cinzel', serif;
+        text-align: center;
+        color: #999999;
       }
       a {
-          margin: 10px;
+        margin: 10px;
+      }
+      h1 {
+        color: #800000;
       }
       .profile img {
+        margin-top: 200px;
+        width: 200px;
+      }
+      @media (max-width: 420pt) {
+        h1 {
+          font-size: 32px;
+        }
+        span {
+          font-size: 20px;
+        }
+        .profile img {
           margin-top: 200px;
-          width: 200px;
+          width: 300px;
+        }
       }
     </style>
   </body>
