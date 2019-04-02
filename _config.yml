@@ -1,5 +1,7 @@
 name: Filipe Oliveira
 
-keep_files: [css, documents, images, js, CNAME, index.html]
+description: Software Enginner
+
+keep_files: [CNAME, index.html]
 
 remote_theme: pages-themes/primer
