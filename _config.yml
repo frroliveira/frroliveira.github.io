@@ -4,6 +4,6 @@ title: Filipe Oliveira
 
 description: Software Engineer
 
-keep_files: [CNAME, index.html]
+keep_files: [CNAME, index.html, pt/pathways/index.html]
 
 remote_theme: pages-themes/primer
