@@ -1,0 +1,133 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    color: #4289bf;
+}
+
+header {
+    padding-top: 56px;
+    padding-bottom: 56px;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    header {
+        padding-bottom: 396px;
+    }
+}
+
+header .title {
+    font-size: 48px;
+    color: #4289bf;
+}
+
+header .subtitle {
+    font-size: 24px;
+    color: #ae9a6a;
+}
+
+.main {
+    background: #f6f1d7;
+    color: #966a00;
+}
+
+.main .hero {
+    position: relative;
+}
+
+.main .hero img {
+    position: absolute;
+    top: -140px;
+    left: 20%;
+}
+
+.main .hero img {
+    height: 600px;
+}
+
+.main .message {
+    padding-top: 76px;
+    padding-bottom: 76px;
+}
+
+.main .message div {
+    font-size: 32px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+@media (max-width: 576px) {
+    .main .hero img {
+        left: 50%;
+        margin-left: -151px;
+    }
+
+    .main .message {
+        visibility: hidden;
+    }
+}
+
+.store {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.store img {
+    height: 88px;
+}
+
+@media (max-width: 768px) {
+    .store {
+        position: absolute;
+        width: 100%;
+        top: 160px;
+    }
+}
+
+.trademark {
+    font-size: 11px;
+    text-align: center;
+    color: #ae9a6a;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+@media (max-width: 768px) {
+    .trademark {
+        padding-top: 180px;
+    }
+}
+
+footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 14px;
+    background: #d6edfe;
+    color: #4289bf;
+}
+
+footer div:nth-child(2) {
+    text-align: right;
+}
+
+footer span {
+    margin-left: 16px;
+}
+
+@media (max-width: 576px) {
+    footer div {
+        text-align: center!important;
+    }
+
+    footer div:nth-child(2) {
+        margin-top: 8px;
+    }
+
+    footer span {
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+}
