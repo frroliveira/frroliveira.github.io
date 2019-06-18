@@ -2,4 +2,4 @@
 title: Privacy Policy
 ---
 
-{% include_relative privacy/v1.md %}
+{% include_relative privacy/v2.md %}
