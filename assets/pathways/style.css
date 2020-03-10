@@ -3,7 +3,7 @@
 }
 
 a {
-    color: #4289bf;
+    color: #966a00 !important;
 }
 
 header {
@@ -105,8 +105,8 @@ footer {
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 14px;
-    background: #d6edfe;
-    color: #4289bf;
+    color: #ae9a6a;
+    border-top: 1px solid #ae9a6a;
 }
 
 footer div:nth-child(2) {
