@@ -103,7 +103,7 @@
         {
           "id": "groceries",
           "start_date": "2021-01-15",
-          "end_date": "2021-02-14",
+          "end_date": "2021-03-01",
           "permissions": [
             {
               "period": "week",
@@ -121,7 +121,7 @@
           "sections": [
             {
               "id": "detail",
-              "name": "detalhe",
+              "name": "fecha",
               "items": [
                 {
                   "value": "20:00 à semana"
@@ -136,7 +136,7 @@
               "name": "até",
               "items": [
                 {
-                  "value": "14 de Fevereiro"
+                  "value": "1 de Março"
                 }
               ]
             },
@@ -155,7 +155,7 @@
         {
           "id": "internal_travel",
           "start_date": "2021-01-15",
-          "end_date": "2021-02-14",
+          "end_date": "2021-03-01",
           "permissions": [
             {
               "period": "monday",
@@ -194,7 +194,7 @@
               "name": "até",
               "items": [
                 {
-                  "value": "14 de Fevereiro"
+                  "value": "1 de Março"
                 }
               ]
             },
@@ -222,7 +222,7 @@
         {
           "id": "restaurants",
           "start_date": "2021-01-15",
-          "end_date": "2021-02-14",
+          "end_date": "2021-03-01",
           "permissions": [
             {
               "period": "all",
@@ -256,7 +256,7 @@
               "name": "até",
               "items": [
                 {
-                  "value": "14 de Fevereiro"
+                  "value": "1 de Março"
                 }
               ]
             },
@@ -284,7 +284,7 @@
         {
           "id": "confinement",
           "start_date": "2021-01-15",
-          "end_date": "2021-02-14",
+          "end_date": "2021-03-01",
           "permissions": [
             {
               "period": "all",
@@ -297,7 +297,7 @@
               "name": "até",
               "items": [
                 {
-                  "value": "14 de Fevereiro"
+                  "value": "1 de Março"
                 }
               ]
             },
@@ -325,7 +325,7 @@
         {
           "id": "remote_work",
           "start_date": "2021-01-15",
-          "end_date": "2021-02-14",
+          "end_date": "2021-03-01",
           "permissions": [
             {
               "period": "all",
@@ -356,7 +356,7 @@
               "name": "até",
               "items": [
                 {
-                  "value": "14 de Fevereiro"
+                  "value": "1 de Março"
                 }
               ]
             },
@@ -428,7 +428,7 @@
         {
           "id": "public_services",
           "start_date": "2021-01-15",
-          "end_date": "2021-02-14",
+          "end_date": "2021-03-01",
           "sections": [
             {
               "id": "regime",
@@ -444,7 +444,7 @@
               "name": "até",
               "items": [
                 {
-                  "value": "14 de Fevereiro"
+                  "value": "1 de Março"
                 }
               ]
             },
