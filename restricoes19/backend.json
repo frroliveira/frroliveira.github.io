@@ -104,18 +104,18 @@
           "id": "groceries",
           "start_date": "2021-01-15",
           "end_date": "2021-03-01",
-          "permissions": [
+          "periods": [
             {
               "period": "week",
-              "end_time": "20:00"
+              "start_time": "20:00"
             },
             {
               "period": "weekend",
-              "end_time": "17:00"
+              "start_time": "17:00"
             },
             {
               "period": "holiday",
-              "end_time": "17:00"
+              "start_time": "17:00"
             }
           ],
           "sections": [
@@ -156,18 +156,17 @@
           "id": "internal_travel",
           "start_date": "2021-01-15",
           "end_date": "2021-03-01",
-          "permissions": [
+          "periods": [
             {
               "period": "monday",
-              "start_time": "05:00"
+              "end_time": "05:00"
             },
             {
               "period": "friday",
-              "end_time": "20:00"
+              "start_time": "20:00"
             },
             {
-              "period": "weekend",
-              "permitted": false
+              "period": "weekend"
             }
           ],
           "sections": [
@@ -223,10 +222,9 @@
           "id": "restaurants",
           "start_date": "2021-01-15",
           "end_date": "2021-03-01",
-          "permissions": [
+          "periods": [
             {
-              "period": "all",
-              "permitted": false
+              "period": "all"
             }
           ],
           "sections": [
@@ -285,10 +283,9 @@
           "id": "confinement",
           "start_date": "2021-01-15",
           "end_date": "2021-03-01",
-          "permissions": [
+          "periods": [
             {
-              "period": "all",
-              "permitted": false
+              "period": "all"
             }
           ],
           "sections": [
@@ -326,10 +323,9 @@
           "id": "remote_work",
           "start_date": "2021-01-15",
           "end_date": "2021-03-01",
-          "permissions": [
+          "periods": [
             {
-              "period": "all",
-              "permitted": false
+              "period": "all"
             }
           ],
           "sections": [
@@ -376,10 +372,9 @@
           "id": "mask_use",
           "start_date": "2020-10-27",
           "end_date": "2021-04-04",
-          "permissions": [
+          "periods": [
             {
-              "period": "all",
-              "permitted": false
+              "period": "all"
             }
           ],
           "sections": [
