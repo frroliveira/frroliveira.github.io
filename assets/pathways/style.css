@@ -3,7 +3,11 @@
 }
 
 a {
-    color: #966a00 !important;
+    color: #ffecaf !important;
+}
+
+body {
+    background: #266aa0;
 }
 
 header {
@@ -20,17 +24,19 @@ header {
 
 header .title {
     font-size: 48px;
-    color: #4289bf;
+    color: white;
+    letter-spacing: 4px;
 }
 
 header .subtitle {
-    font-size: 24px;
-    color: #ae9a6a;
+    font-size: 22px;
+    color: #fff1c1;
+    letter-spacing: 1px;
 }
 
 .main {
-    background: #f6f1d7;
-    color: #966a00;
+    background: #266aa0;
+    color: white;
 }
 
 .main .hero {
@@ -90,7 +96,7 @@ header .subtitle {
 .trademark {
     font-size: 11px;
     text-align: center;
-    color: #ae9a6a;
+    color: #fff1c1;
     padding-top: 30px;
     padding-bottom: 30px;
 }
@@ -105,8 +111,8 @@ footer {
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 14px;
-    color: #ae9a6a;
-    border-top: 1px solid #ae9a6a;
+    color: #fff1c1;
+    border-top: 1px solid #fff1c1;
 }
 
 footer div:nth-child(2) {
